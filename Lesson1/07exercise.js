@@ -12,5 +12,5 @@ console.log(total);
 let price = 200*vat/100;
 console.log(price);
 
-// in this code we want the vat in the funtion to only be used by the function.
-// How can we make it so it doesnt 
+// In this code we want the vat in the funtion to only be used by the function.
+// How can we make it so it doesnt
